@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-I just graduated from Vanderbilt University with a double major in Mathematics and Computer Science and received an honor of Summa Cum Laude.
+I just graduated from Vanderbilt University with a double major in Mathematics and Computer Science and received an honor of *Summa Cum Laude*.

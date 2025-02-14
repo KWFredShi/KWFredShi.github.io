@@ -2,25 +2,25 @@
 layout: page
 permalink: /publications/
 title: publications
-description: Here are my selected publications.
+description: Below is a list of my selected publications. For a complete list, please visit my [Google Scholar](https://scholar.google.com/citations?hl=en&user=w1sq128AAAAJ) or [ResearchGate](https://www.researchgate.net/profile/Kaiwen-Shi-10?ev=hdr_xprf) profile.
 nav: true
 nav_order: 2
 ---
 
-# Publications
-
-Below is a list of my selected publications. For a complete list, please visit my [Google Scholar](https://scholar.google.com/citations?hl=en&user=w1sq128AAAAJ) or [ResearchGate](https://www.researchgate.net/profile/Kaiwen-Shi-10?ev=hdr_xprf) profile.
-
----
-
 ## Conference Papers  
-{% bibliography --query @inproceedings %}  
+- **Linear Spherical Sliced Optimal Transport: A Fast Metric for Comparing Spherical Data**  
+  *Xinran Liu, Yikun Bai, Rocio Diaz Martin, Kaiwen Shi, Ashkan Shahbazi, Bennett Allan Landman, Catie Chang, Soheil Kolouri*  
+  *International Conference on Learning Representations (ICLR), 2025*  
+  [Paper Link](https://openreview.net/forum?id=fgUFZAxywx&noteId=d7DRcvQW08)  
 
-## Journal Articles  
+<!--## Journal Articles  
 {% bibliography --query @article %}  
 
 ## Preprints  
-{% bibliography --query @misc,@techreport %}  
+{% bibliography --query @misc,@techreport %}-->
 
 ## Other Contributions  
-{% bibliography --query @book,@bookchapter,@thesis,@unpublished %}  
+- **Time Parameterized Optimal Transport**  
+  *Kaiwen Shi*  
+  *Undergraduate Honors Thesis, Vanderbilt University, May 2025*  
+  [Download PDF](/home/kaiwenshi/jekyll/KWFredShi.github.io/assets/pdf/TimeParamOTFinal.pdf)  

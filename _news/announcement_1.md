@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper Linear Spherical Sliced Optimal Transport: A Fast Metric for Comparing Spherical Data get selected as an ICLR Spotlight.
+Our paper [Linear Spherical Sliced Optimal Transport: A Fast Metric for Comparing Spherical Data](https://openreview.net/forum?id=fgUFZAxywx&noteId=d7DRcvQW08) get selected as an ICLR Spotlight.

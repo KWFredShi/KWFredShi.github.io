@@ -1,8 +1,9 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+title: ICLR 2025 Spotlight
+date: 2025-02-11 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Our paper Linear Spherical Sliced Optimal Transport: A Fast Metric for Comparing Spherical Data get selected as an ICLR Spotlight.

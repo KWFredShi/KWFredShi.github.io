@@ -9,7 +9,7 @@ nav_order: 2
 
 ## Conference Papers  
 - **Linear Spherical Sliced Optimal Transport: A Fast Metric for Comparing Spherical Data**  
-  *Xinran Liu, Yikun Bai, Rocio Diaz Martin, <ins>Kaiwen Shi<ins>, Ashkan Shahbazi, Bennett Allan Landman, Catie Chang, Soheil Kolouri*  
+  *Xinran Liu, Yikun Bai, Rocio Diaz Martin, <ins>Kaiwen Shi</ins>, Ashkan Shahbazi, Bennett Allan Landman, Catie Chang, Soheil Kolouri*  
   *International Conference on Learning Representations (ICLR), 2025*  
   [Paper Link](https://openreview.net/forum?id=fgUFZAxywx&noteId=d7DRcvQW08)  
 
@@ -21,6 +21,6 @@ nav_order: 2
 
 ## Other Contributions  
 - **Time Parameterized Optimal Transport**  
-  *<ins>Kaiwen Shi<ins>*  
+  *<ins>Kaiwen Shi</ins>*  
   *Undergraduate Honors Thesis, Vanderbilt University, Dec 2024*  
-  [Download PDF](KWFredShi.github.io/assets/pdf/TimeParamOTFinal.pdf)  
+  [Download PDF](https://KWFredShi.github.io/assets/pdf/TimeParamOTFinal.pdf)  

@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: Below is a list of my selected publications. For a complete list, please visit my [Google Scholar](https://scholar.google.com/citations?hl=en&user=w1sq128AAAAJ) or [ResearchGate](https://www.researchgate.net/profile/Kaiwen-Shi-10?ev=hdr_xprf) profile.
+description: Below is a list of my selected publications. For a complete list, please visit my <a href='https://scholar.google.com/citations?hl=en&user=w1sq128AAAAJ'>Google Scholar or <a href='https://www.researchgate.net/profile/Kaiwen-Shi-10?ev=hdr_xprf'>ResearchGate profile.
 nav: true
 nav_order: 2
 ---
@@ -22,5 +22,5 @@ nav_order: 2
 ## Other Contributions  
 - **Time Parameterized Optimal Transport**  
   *Kaiwen Shi*  
-  *Undergraduate Honors Thesis, Vanderbilt University, May 2025*  
-  [Download PDF](/home/kaiwenshi/jekyll/KWFredShi.github.io/assets/pdf/TimeParamOTFinal.pdf)  
+  *Undergraduate Honors Thesis, Vanderbilt University, Dec 2024*  
+  [Download PDF](assets/pdf/TimeParamOTFinal.pdf)  

@@ -15,8 +15,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am Kaiwen Shi, currently a rising senior at Vanderbilt University. I am interested in general mathematics and how it manifests in machine learning algorithms. I am now learning optimal transport theory with Dr.Soheil Kolouri.
+I am Kaiwen Shi, a graduate of Vanderbilt University. I am interested in general mathematics and how it manifests in machine learning algorithms. I am also particularly interested in how machine learning and deep learning could benefit biomedical researches such as drug discovery. I have been working with Dr. Soheil Kolouri and Dr. Akram Aldroubi on Optimal Transport Theory. 
 
-The website now is still preliminary. Ignore everything in the projects and publictions sections as they are only templates.
-
-Contact me anytime.
+If you want to see more on my personal bio, please visit <a href='https://www.linkedin.com/in/kaiwenshi121381/'>my LinkedIn page. Contact me anytime.

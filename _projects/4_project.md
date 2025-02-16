@@ -2,7 +2,7 @@
 layout: page
 title: TimeCapsule Designs.
 description: This page contains a class project - my designs for a Korea-Based toy store, TimeCapsule.
-img: assets/img/TC/Imitatio.png
+img: assets/img/TC/imitatio.png
 importance: 2
 category: fun
 related_publications: false
@@ -15,7 +15,7 @@ This was a class project, so it might contain some designs that seem irrelevant 
 
 The imitatio task was given to us as a primer for further designs. We must follow some master's style and make a piece out of it. Guess whom I followed?
 
-![Imitatio](https://KWFredShi.github.io/assets/img/TC/Imitatio.png)
+![Imitatio](https://KWFredShi.github.io/assets/img/TC/imitatio.png)
 
 # Logos
 

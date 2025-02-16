@@ -8,7 +8,7 @@ category: fun
 related_publications: false
 ---
 
-
+The list continues to grow...
 
 ![1](https://KWFredShi.github.io/assets/img/sketches/Week2.jpg)
 ![2](https://KWFredShi.github.io/assets/img/sketches/Week3.jpg)
@@ -23,3 +23,11 @@ related_publications: false
 ![11](https://KWFredShi.github.io/assets/img/sketches/Week11.jpg)
 ![12](https://KWFredShi.github.io/assets/img/sketches/Week12.jpg)
 ![13](https://KWFredShi.github.io/assets/img/sketches/Week14.jpg)
+
+Copyright Notice
+© Kaiwen Shi 2025. All rights reserved.
+
+Usage Policy
+This artwork is the exclusive property of the creator, Kaiwen Shi. Unauthorized reproduction, distribution, modification, or commercial use of this work is strictly prohibited without explicit written permission.
+
+If you’d like to use or license this artwork, please contact me.

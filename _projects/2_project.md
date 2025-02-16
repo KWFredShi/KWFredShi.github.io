@@ -30,3 +30,11 @@ Plans:
 ![Plan](https://KWFredShi.github.io/assets/img/XA/plan.jpg)
 ![BirdView](https://KWFredShi.github.io/assets/img/XA/birdview.jpg)
 ![Overview](https://KWFredShi.github.io/assets/img/XA/overview.jpg)
+
+Copyright Notice
+© Kaiwen Shi 2025. All rights reserved.
+
+Usage Policy
+This artwork is the exclusive property of the creator, Kaiwen Shi. Unauthorized reproduction, distribution, modification, or commercial use of this work is strictly prohibited without explicit written permission.
+
+If you’d like to use or license this artwork, please contact me.

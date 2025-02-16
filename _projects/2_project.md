@@ -20,14 +20,14 @@ When the people above walked around, the shadow of lights moved accordingly. Com
 
 Sections:
 
-![Section1](assets/img/XA/sec.png)
-![Section2](assets/img/XA/section.png)
-![Section3](assets/img/XA/section1.png)
-![Section4](assets/img/XA/section2.png)
-![Section5](assets/img/XA/sectionPS.png)
+![Section1](https://KWFredShi.github.io/assets/img/XA/sec.png)
+![Section2](https://KWFredShi.github.io/assets/img/XA/section.png)
+![Section3](https://KWFredShi.github.io/assets/img/XA/section1.png)
+![Section4](https://KWFredShi.github.io/assets/img/XA/section2.png)
+![Section5](https://KWFredShi.github.io/assets/img/XA/sectionPS.png)
 
 Plans:
 
-![Plan](assets/img/XA/plan.png)
-![BirdView](aassets/img/XA/birdview.jpg)
-![Overview](assets/img/XA/overview.jpg)
+![Plan](https://KWFredShi.github.io/assets/img/XA/plan.png)
+![BirdView](https://KWFredShi.github.io/aassets/img/XA/birdview.jpg)
+![Overview](https://KWFredShi.github.io/assets/img/XA/overview.jpg)

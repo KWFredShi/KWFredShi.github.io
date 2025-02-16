@@ -9,50 +9,49 @@ related_publications: false
 ---
 
 
-This was a class project, so it might contain some designs that seem irrelevant to toy store. I retain all the rights.
+This was a class project, so it might contain some designs that seem irrelevant to a toy store. **I retain all the rights.**
 
 # Imitatio
 
-The imitatio task was given to us as a primer for further designs. We must follow some master's style and make a piece out of it. Guess whom I followed?
+The imitatio task was given to us as a primer for further designs. We had to follow a master's style and create a piece in that style. **Guess whom I followed?**
 
-![Imitatio](https://KWFredShi.github.io/assets/img/TC/imitatio.png)
+<img src="https://KWFredShi.github.io/assets/img/TC/imitatio.png" alt="Imitatio" width="300">
 
 # Logos
 
-Here on will be contributed only to TimeCapsule designs. The first will be the logos.
+From here on, everything will be related to TimeCapsule designs. First, the logos:
 
-![Logo](https://KWFredShi.github.io/assets/img/TC/Logo.jpg)
+<img src="https://KWFredShi.github.io/assets/img/TC/Logo.jpg" alt="Logo" width="300">
 
-It looked nice to me, but to be completely transparent it was a compromised result. The original design infused the words Time and Capsule into a Capsule shape, which I preferred the most. However, it was eventually turned down by the client.
+It looked nice to me, but to be completely transparent, it was a **compromised result**. The original design fused the words **Time** and **Capsule** into a capsule shape, which I preferred the most. However, it was eventually turned down by the client.
 
-![Logo2](https://KWFredShi.github.io/assets/img/TC/SketchLogo.jpg)
+<img src="https://KWFredShi.github.io/assets/img/TC/SketchLogo.jpg" alt="Logo Sketch" width="300">
 
 # Posters & Posts
 
-We designed for the client both posters and posts for in-person and online promotes. A sketch of the poster looked like:
+We designed both **posters** and **social media posts** for in-person and online promotions. A sketch of the poster looked like this:
 
-![Poster2](https://KWFredShi.github.io/assets/img/TC/SketchPoster.jpg)
+<img src="https://KWFredShi.github.io/assets/img/TC/SketchPost.jpg" alt="Poster Sketch" width="300">
 
-We digitalized it into:
+We then **digitalized it** into:
 
-![Poster](https://KWFredShi.github.io/assets/img/TC/Poster.png)
+<img src="https://KWFredShi.github.io/assets/img/TC/Poster.png" alt="Final Poster" width="300">
 
-Another very cute sketch, which again unfortunately did not make it to the end, followed:
+Another very cute sketch, which unfortunately did not make it to the final design:
 
-![Poster3](https://KWFredShi.github.io/assets/img/TC/PosterFigure2.jpg)
+<img src="https://KWFredShi.github.io/assets/img/TC/PosterFigure2.jpg" alt="Poster Sketch 2" width="300">
 
-We also made a lot of post materials for Instagram! For example, this one was designed for making an announcement:
+We also created **several Instagram post materials**! For example, this one was designed for an **announcement**:
 
-![Post](https://KWFredShi.github.io/assets/img/TC/AnnouncementFinal.jpg)
+<img src="https://KWFredShi.github.io/assets/img/TC/AnnouncementFinal.jpg" alt="Instagram Announcement" width="300">
 
-The client asked for a pop-styled post as well, so we imitated after Roy Lichtenstein and came up with this:
+The client also asked for a **pop-art styled post**, so we **imitated Roy Lichtenstein's style** and came up with this:
 
-![Post2](https://KWFredShi.github.io/assets/img/TC/2.png)
+<img src="https://KWFredShi.github.io/assets/img/TC/2.png" alt="Pop Art Post" width="300">
 
-This one is more minimalist:
+This one takes a more **minimalist** approach:
 
-![Post3](https://KWFredShi.github.io/assets/img/TC/Post.png)
-
+<img src="https://KWFredShi.github.io/assets/img/TC/Post.png" alt="Minimalist Post" width="300">
 
 
 

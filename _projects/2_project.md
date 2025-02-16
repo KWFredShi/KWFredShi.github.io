@@ -12,7 +12,7 @@ I used to like architecture a lot and I aspired to become a trained archtiect. I
 
 So I created an underground public space, where people could socialize, read, or simply enjoy the breeze. The concrete bars symbolized tree trunks, but there were no leaves; instead, the tiny glass-sealed pores let sunlight in, creating a shadow of light around the bars.
 
-![Rendering](assets/img/XA/1.jpg.png)
+![Rendering](https://KWFredShi.github.io/assets/img/XA/1.jpg.png)
 
 When the people above walked around, the shadow of lights moved accordingly. Come in and feel the underground breeze.
 
@@ -21,13 +21,12 @@ When the people above walked around, the shadow of lights moved accordingly. Com
 Sections:
 
 ![Section1](https://KWFredShi.github.io/assets/img/XA/sec.png)
-![Section2](https://KWFredShi.github.io/assets/img/XA/section.png)
-![Section3](https://KWFredShi.github.io/assets/img/XA/section1.png)
-![Section4](https://KWFredShi.github.io/assets/img/XA/section2.png)
-![Section5](https://KWFredShi.github.io/assets/img/XA/sectionPS.png)
+![Section2](https://KWFredShi.github.io/assets/img/XA/section.jpg)
+![Section4](https://KWFredShi.github.io/assets/img/XA/section2.jpg)
+![Section5](https://KWFredShi.github.io/assets/img/XA/sectionPS.jpg)
 
 Plans:
 
-![Plan](https://KWFredShi.github.io/assets/img/XA/plan.png)
-![BirdView](https://KWFredShi.github.io/aassets/img/XA/birdview.jpg)
+![Plan](https://KWFredShi.github.io/assets/img/XA/plan.jpg)
+![BirdView](https://KWFredShi.github.io/assets/img/XA/birdview.jpg)
 ![Overview](https://KWFredShi.github.io/assets/img/XA/overview.jpg)

@@ -12,7 +12,7 @@ I used to like architecture a lot and I aspired to become a trained archtiect. I
 
 So I created an underground public space, where people could socialize, read, or simply enjoy the breeze. The concrete bars symbolized tree trunks, but there were no leaves; instead, the tiny glass-sealed pores let sunlight in, creating a shadow of light around the bars.
 
-![Rendering](https://KWFredShi.github.io/assets/img/XA/1.jpg.png)
+![Rendering](https://KWFredShi.github.io/assets/img/XA/1.jpg){width=300 height=200}
 
 When the people above walked around, the shadow of lights moved accordingly. Come in and feel the underground breeze.
 
@@ -20,16 +20,16 @@ When the people above walked around, the shadow of lights moved accordingly. Com
 
 Sections:
 
-![Section1](https://KWFredShi.github.io/assets/img/XA/sec.png)
-![Section2](https://KWFredShi.github.io/assets/img/XA/section.jpg)
-![Section4](https://KWFredShi.github.io/assets/img/XA/section2.jpg)
-![Section5](https://KWFredShi.github.io/assets/img/XA/sectionPS.jpg)
+![Section1](https://KWFredShi.github.io/assets/img/XA/sec.png){width=300 height=200}
+![Section2](https://KWFredShi.github.io/assets/img/XA/section.jpg){width=300 height=200}
+![Section4](https://KWFredShi.github.io/assets/img/XA/section2.jpg){width=300 height=200}
+![Section5](https://KWFredShi.github.io/assets/img/XA/sectionPS.jpg){width=300 height=200}
 
 Plans:
 
-![Plan](https://KWFredShi.github.io/assets/img/XA/plan.jpg)
-![BirdView](https://KWFredShi.github.io/assets/img/XA/birdview.jpg)
-![Overview](https://KWFredShi.github.io/assets/img/XA/overview.jpg)
+![Plan](https://KWFredShi.github.io/assets/img/XA/plan.jpg){width=300 height=200}
+![BirdView](https://KWFredShi.github.io/assets/img/XA/birdview.jpg){width=300 height=200}
+![Overview](https://KWFredShi.github.io/assets/img/XA/overview.jpg){width=300 height=200}
 
 Copyright Notice
 © Kaiwen Shi 2025. All rights reserved.

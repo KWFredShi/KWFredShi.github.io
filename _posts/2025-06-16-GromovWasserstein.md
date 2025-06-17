@@ -8,4 +8,6 @@ categories: ML.
 mathjax: true
 ---
 
-This is created as a placeholder for my upcoming talk.
+PDF link: [Note](https://KWFredShi.github.io/assets/pdf/OT_on_Graphs.pdf)
+
+This pdf contains the notes on my talk at CAAIPD on Jun 16th, 2025. For any questions, comments, collaborations, please contact [Kaiwen Shi](kaiwen.shi@vanderbilt.edu).

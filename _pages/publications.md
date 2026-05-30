@@ -13,11 +13,11 @@ nav_order: 3
   *International Conference on Learning Representations (ICLR), 2025*  
   [Paper Link](https://openreview.net/forum?id=fgUFZAxywx&noteId=d7DRcvQW08)  
 
-<!--## Journal Articles  
-{% bibliography --query @article %}  
-
 ## Preprints  
-{% bibliography --query @misc,@techreport %}-->
+- **Ensembits: an alphabet of protein conformational ensembles**  
+  *<ins>Kaiwen Shi</ins>, Carlos Oliver*  
+  *arXiv preprint arXiv:2605.13789, 2026*  
+  [arXiv](https://arxiv.org/abs/2605.13789)  
 
 ## Other Contributions  
 - **Time Parameterized Optimal Transport**  

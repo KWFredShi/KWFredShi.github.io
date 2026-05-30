@@ -4,7 +4,7 @@ permalink: /people/
 title: people
 description: Group member
 nav: true
-nav_order: 7
+nav_order: 8
 
 profiles:
   # if you want to include more than one profile, just replicate the following block

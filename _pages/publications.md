@@ -2,9 +2,9 @@
 layout: page
 permalink: /publications/
 title: publications
-description: Below is a list of my selected publications. For a complete list, please visit my <a href='https://scholar.google.com/citations?hl=en&user=w1sq128AAAAJ'>Google Scholar or <a href='https://www.researchgate.net/profile/Kaiwen-Shi-10?ev=hdr_xprf'>ResearchGate profile.
+description: Below is a list of my selected publications. For a complete list, please visit my <a href='https://scholar.google.com/citations?hl=en&user=0QTDbhAAAAAJ'>Google Scholar or <a href='https://www.researchgate.net/profile/Kaiwen-Shi-10?ev=hdr_xprf'>ResearchGate profile.
 nav: true
-nav_order: 2
+nav_order: 3
 ---
 
 ## Conference Papers  

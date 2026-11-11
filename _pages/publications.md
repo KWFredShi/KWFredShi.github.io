@@ -8,16 +8,20 @@ nav_order: 3
 ---
 
 ## Conference Papers  
+- **Ensembits: an alphabet of protein conformational ensembles**  
+  *<ins>Kaiwen Shi</ins>, Carlos Oliver*  
+  *Advances in Neural Information Processing Systems (NeurIPS), 2026*  
+  [Paper Link](https://neurips.cc/virtual/2026/loc/atlanta/poster/151956)  
+
+- **BioBlobs: Unsupervised Discovery of Functional Substructures for Protein Function Prediction**  
+  *Xin (Allen) Wang, <ins>Kaiwen Shi</ins>, Carlos Oliver*  
+  *Advances in Neural Information Processing Systems (NeurIPS), 2026*  
+  [Paper Link](https://neurips.cc/virtual/2026/loc/atlanta/poster/150599)  
+
 - **Linear Spherical Sliced Optimal Transport: A Fast Metric for Comparing Spherical Data**  
   *Xinran Liu, Yikun Bai, Rocio Diaz Martin, <ins>Kaiwen Shi</ins>, Ashkan Shahbazi, Bennett Allan Landman, Catie Chang, Soheil Kolouri*  
   *International Conference on Learning Representations (ICLR), 2025*  
   [Paper Link](https://openreview.net/forum?id=fgUFZAxywx&noteId=d7DRcvQW08)  
-
-## Preprints  
-- **Ensembits: an alphabet of protein conformational ensembles**  
-  *<ins>Kaiwen Shi</ins>, Carlos Oliver*  
-  *arXiv preprint arXiv:2605.13789, 2026*  
-  [arXiv](https://arxiv.org/abs/2605.13789)  
 
 ## Other Contributions  
 - **Time Parameterized Optimal Transport**  
